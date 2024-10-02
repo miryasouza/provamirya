@@ -6,9 +6,12 @@ body {
 h1 {
     color: rgb(255, 238, 0);
 }
-h1 {
+h2 {
     color: rgb(255, 239, 15);
 }
 h3 {
     color: rgb(255, 251, 0);
+}
+p {
+    color: rgb(255, 255, 255);
 }
