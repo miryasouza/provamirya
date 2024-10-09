@@ -5,13 +5,23 @@ body {
 }
 h1 {
     color: rgb(255, 238, 0);
+    font-size: xx-large;
 }
 h2 {
     color: rgb(255, 239, 15);
+    font-size: xx-large;
 }
 h3 {
     color: rgb(255, 251, 0);
+    font-size: xx-large;
 }
 p {
     color: rgb(255, 255, 255);
+    font-size: medium;
+}
+.img1 {
+    width: 55%;
+}
+.img2 {
+    width: 55%;
 }
